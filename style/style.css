@@ -92,6 +92,34 @@ nav li a {
     width: 100%;
 }
 
+/* ----------------------------------------------------------------------------------------------------------- */
+
+/* main style start here  */
+main {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.teams-container {
+    display: flex;
+    align-items: center;
+}
+
+.teams-title {
+    font-size: 2.8rem;
+}
+
+.teams-img-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.teams-content {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+/* ----------------------------------------------------------------------------------------------------------- */
 
 /* resposive style  */
 
