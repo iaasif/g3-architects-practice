@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+
+    font-family: "Work Sans", sans-serif;
+
+
+}
+
+/* header style here start */
+/* ----------------------------------------------------------------------------------------------------------- */
+header {
+    background: rgba(255, 144, 14, 0.10);
+}
+
+
+nav{
+    display: flex;
+}
